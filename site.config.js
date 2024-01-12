@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Data Scientist",
     bio: "I develop everything using Python.",
     email: "minkyu.han.work@gmail.com",
-    linkedin: "MinkyuHan",
+    linkedin: "austin0datascientisteng1neer1ng",
     github: "MangooH",
     instagram: "",
   },
@@ -23,8 +23,8 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "https://morethan-log-austin.vercel.app",
+  since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
