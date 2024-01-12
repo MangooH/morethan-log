@@ -6,11 +6,15 @@ const CONFIG = {
     role: "Data Scientist",
     bio: "I develop everything using Python.",
     email: "minkyu.han.work@gmail.com",
-    linkedin: "Han Minkyu",
+    linkedin: "MinkyuHan",
     github: "MangooH",
     instagram: "",
   },
   projects: [
+    {
+      name: `noopy`,
+      href: "https://moored-avenue-2ee.notion.site/Noopy-V2-b83825ad284247bf922a4a4a6e9dc49c?pvs=4",
+    },
   ],
   // blog setting (required)
   blog: {
@@ -49,7 +53,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: true,
     config: {
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
       "issue-term": "og:title",
