@@ -15,6 +15,10 @@ const CONFIG = {
       name: `noopy`,
       href: "https://moored-avenue-2ee.notion.site/Noopy-V2-b83825ad284247bf922a4a4a6e9dc49c?pvs=4",
     },
+    {
+      name: `Metaverse Library`,
+      href: "https://moored-avenue-2ee.notion.site/4dc12ffae841442a96f024a4c6c3c804?pvs=4"
+    },
   ],
   // blog setting (required)
   blog: {
